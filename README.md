@@ -41,4 +41,4 @@ Neste projeto, pude praticar:
 
 ## Link para o projeto online
 
-[Lista_De_Compras (https://brun0k9.github.io/Projeto_ListaDeCompras/?)]
+[Lista_De_Compras ](https://brun0k9.github.io/Projeto_ListaDeCompras/?)
