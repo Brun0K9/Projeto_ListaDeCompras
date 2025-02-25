@@ -33,11 +33,11 @@ Neste projeto, pude praticar:
 
 ## Autor
 
-Seu Nome
+##### BRUNO XAVIER
 
 ## Status do Projeto
 
-Concluído.
+##### Concluído.
 
 ## Link para o projeto online
 
