@@ -11,4 +11,13 @@ botaoAdicionar.addEventListener("click", (evento) => {
   verificarListaVazia(listaDeCompras);
 });
 
+document.addEventListener("keypress", (evento) => {
+  if (evento.key === "Enter") {
+    evento.preventDefault();
+    const itemDaLista = criarItemDaLista();
+    listaDeCompras.appendChild(itemDaLista);
+    verificarListaVazia(listaDeCompras);
+  }
+});
+
 verificarListaVazia(listaDeCompras);
