@@ -10,7 +10,7 @@ botaoAdicionar.addEventListener("click", () => {
   verificarListaVazia(listaDeCompras);
 });
 
-document.addEventListener("keypress", (evento) => {
+document.addEventListener("keydown", (evento) => {
   if (evento.key === "Enter") {
     evento.preventDefault();
     const itemDaLista = criarItemDaLista();
